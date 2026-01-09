@@ -217,3 +217,21 @@ nav ul a{
 .solution-con{
     margin-bottom: 40px;
 }
+
+/* bonus page styles */
+.bonus{
+    padding: 80px 40px;
+    margin: 120px;
+    max-height: 384px;
+    max-width: 1360px;
+    border-radius: 12px;
+    background: rgba(247, 246, 242, 1);
+    text-align: center;
+}
+.custom-btn{
+    margin-top: 24px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
