@@ -188,3 +188,32 @@ nav ul a{
     font-weight: 400;
     color: rgba(98, 115, 130, 1);
 }
+
+/* Solution page */
+.solution-page{
+    max-height: 600px;
+    max-width: 1360px;
+    margin: 0 120px;
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+}
+
+.solution{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(70, 145, 101, 1);
+}
+.points{
+    display: flex;
+    gap: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(0, 25, 49, 1);
+    margin-bottom: 16px;
+}
+
+.solution-con{
+    margin-bottom: 40px;
+}
